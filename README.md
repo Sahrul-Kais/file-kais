@@ -18,5 +18,8 @@ lampirkan hasil screen shoot code program yang telah saya run:
 ![2](https://user-images.githubusercontent.com/63027899/79639180-4205e380-81b4-11ea-945a-21fb0c8c2bfa.jpg)
 
 3. Membuat Tabel Cashier
+![3](https://user-images.githubusercontent.com/63027899/79639253-d07a6500-81b4-11ea-9956-332377cd5092.jpg)
 
+4. Hasil Penggabungan Tabel
+![4](https://user-images.githubusercontent.com/63027899/79639258-d83a0980-81b4-11ea-8f24-ae19c46ebc1d.jpg)
 
