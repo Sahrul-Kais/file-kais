@@ -11,3 +11,5 @@ code perogram berjalan dengan baik.
 Sedangkan untuk nomor 6a, Saya menggunakan SQLite untuk membuat tabel dan melakukan operasi penggabungan tabel. Berikut Saya 
 lampirkan hasil screen shoot code program yang telah saya run:
 
+![1](https://user-images.githubusercontent.com/63027899/79639118-c5730500-81b3-11ea-817b-fe6b94b9ab3b.jpg)
+
