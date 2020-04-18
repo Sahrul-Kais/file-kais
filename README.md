@@ -14,3 +14,9 @@ lampirkan hasil screen shoot code program yang telah saya run:
 1. Membuat Tabel Product
 ![1](https://user-images.githubusercontent.com/63027899/79639118-c5730500-81b3-11ea-817b-fe6b94b9ab3b.jpg)
 
+2. Membuat Tabel Category
+![2](https://user-images.githubusercontent.com/63027899/79639180-4205e380-81b4-11ea-945a-21fb0c8c2bfa.jpg)
+
+3. Membuat Tabel Cashier
+
+
